@@ -1,0 +1,9 @@
+D:\DEMO\C#Code\windowsApptest\CAN_COM_F2.0\CAN_COM_F2.0\bin\Debug\CAN_COM_F2.0.exe
+D:\DEMO\C#Code\windowsApptest\CAN_COM_F2.0\CAN_COM_F2.0\bin\Debug\CAN_COM_F2.0.pdb
+D:\DEMO\C#Code\windowsApptest\CAN_COM_F2.0\CAN_COM_F2.0\obj\Debug\CAN_COM_F2._0.Form1.resources
+D:\DEMO\C#Code\windowsApptest\CAN_COM_F2.0\CAN_COM_F2.0\obj\Debug\CAN_COM_F2._0.Properties.Resources.resources
+D:\DEMO\C#Code\windowsApptest\CAN_COM_F2.0\CAN_COM_F2.0\obj\Debug\CAN_COM_F2.0.csproj.GenerateResource.cache
+D:\DEMO\C#Code\windowsApptest\CAN_COM_F2.0\CAN_COM_F2.0\obj\Debug\CAN_COM_F2.0.csproj.CoreCompileInputs.cache
+D:\DEMO\C#Code\windowsApptest\CAN_COM_F2.0\CAN_COM_F2.0\obj\Debug\CAN_COM_F2.0.exe
+D:\DEMO\C#Code\windowsApptest\CAN_COM_F2.0\CAN_COM_F2.0\obj\Debug\CAN_COM_F2.0.pdb
+D:\DEMO\C#Code\windowsApptest\CAN_COM_F2.0\CAN_COM_F2.0\obj\Debug\CAN_COM_F2.0.csprojAssemblyReference.cache
